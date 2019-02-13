@@ -7,8 +7,8 @@
 
 <link>https://imeiju.github.io/update.xml</link>
 
-<description>最好的体验就在最新的版本中</description>
-<language>zh</language>
+<description>Most recent changes with links to updates.</description>
+<language>en</language>
 
 <item>
 <title>Version 1.1</title>
@@ -16,14 +16,15 @@
 <description>
 <![CDATA[
 <ul> 
-	<li>此版本更新内容</li> 
-    <li>1. UI美化</li>
-    <li>2. 播放器修改</li>
+	<li>MS - 变更</li> 
+    <li>1.可以</li>
+    <li>2.test</li>
+    <li>3.支持</li>
 </ul>
 ]]>
 </description>
 
-<pubDate>更新时间</pubDate>
+<!-- <pubDate>Wed, 16 May 2018 11:20:11 +0000</pubDate> -->
 <enclosure url="https://imeiju.github.io/iMeiJu.zip" sparkle:version="1.1"
     length="8549680"
     type="application/octet-stream"
