@@ -5,7 +5,7 @@
 
 <title>iMeiJu</title>
 
-<link>https://imeiju.github.io/index.html</link>
+<link>https://imeiju.github.io/update.xml</link>
 
 <description>最好的体验就在最新的版本中</description>
 <language>zh</language>
@@ -25,9 +25,9 @@
 
 <pubDate>更新时间</pubDate>
 <enclosure url="https://imeiju.github.io/iMeiJu.zip" sparkle:version="1.1"
-    length="8549679"
+    length="8549680"
     type="application/octet-stream"
-    sparkle:dsaSignature="MC4CFQDEN/GpWqwJ6gdj0cg6Gaub9toWTwIVAKAFoXxcTCBZjYFvrWdn3qoU2q7l"/>
+    sparkle:dsaSignature="MC0CFQCQiLYc6G3xltPnbswhkJ5LwnkCAAIUGZ7d29tFr/I/ilK3r63OTzglNxY="/>
 
 </item>
 
